@@ -1,0 +1,1070 @@
+.navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 2.5rem;
+    font-size: 1.7em;
+    text-decoration: none;
+    white-space: nowrap;
+    color: #000000;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 6rem;
+    color: #848484;
+}
+.navbar-expand-lg .navbar-nav .nav-item a:hover {
+    color: #24cf5f;
+}
+.navbar-expand-lg .span a:hover {
+    
+    background-color: #fff;
+    color: #24cf5f;
+    border: 2px solid #24cf5f;
+    padding: 15px 41px;
+}
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    margin-right: 60px;
+}
+
+.xanhlane {
+    color: #24cf5f;
+}
+.call{
+    display: inline-block;
+    background-color: #24cf5f;
+    border-color: #24cf5f;
+    color: #fff;
+    text-decoration: none;
+    padding: 17px 43px;
+    border-radius: 100px;
+}
+.call1{
+    display: inline-block;
+    background-color: #24cf5f;
+    border-color: #24cf5f;
+    color: #fff;
+    text-decoration: none;
+    padding: 17px 43px;
+    border-radius: 100px;
+    margin-left: 70px;
+}
+.call1:hover{
+    background-color: #fff;
+    color: #24cf5f;
+    border: 2px solid #24cf5f;
+    padding: 15px 41px;
+}
+.title h1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 60px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+    margin-top: 130px;
+}
+
+.its{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 20px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    margin-bottom: 30px;
+}
+.callwatch{
+    display: inline-block;
+    background-color: #ffffff;
+    border: #ebebeb 1px solid;
+    color:#000000;
+    text-decoration: none;
+    padding: 17px 53px;
+    border-radius: 100px;
+    margin-right: 15px;
+}
+.callwatch:hover{
+    background-color: #24cf5f;
+    border-color: #24cf5f;
+    color: #fff;
+}
+.yourmain{
+    margin-top: 170px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    margin-bottom: 15px;
+}
+.weare{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 19px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.ben1{
+    text-align: center;
+    padding: 20px 0;
+}
+.ben1chu1 h5{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    margin-top: 30px;
+}
+.ben1chu2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 17px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    margin-top: 15px;
+}
+.solution{
+    margin-top: 130px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.explain{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 20px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.so p{
+    display: inline-block;
+    background-color: #fff;
+    border: 2px solid #ebebeb;
+    color: #d1d1d1;
+    border-radius: 100%;
+    font-size: 1.7em;
+    padding: 10px 15px;
+}
+.check{
+    margin-top: 150px;
+}
+.step1 h5{
+    margin: 13px 0;
+}
+.cogai{
+    background-image: url(../images/cogai.jpg);
+    background-size: cover;
+    height: 550px;
+    background-attachment: fixed;
+}
+.tellyour h1{
+    color: #fff;
+}
+.itwill p{
+    color: #fff;
+    font-size: 1.3em;
+    margin-top: 30px;
+}
+.call2 a{
+    display: inline-block;
+    background-color: #24cf5f;
+    color: #fff;
+    text-decoration: none;
+    padding: 17px 43px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-top: 44px;
+}
+.call2 a:hover{
+    background-color: #fff;
+    color: #24cf5f;
+    border: 2px solid #24cf5f;
+    padding: 15px 41px;
+}
+.thechung{
+    padding: 170px 0;
+}
+.chinhlai{
+    margin-top: 140px;
+}
+.custome{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 36px;
+    line-height: 0.8;
+    letter-spacing: 0px;
+    text-align: right;
+}
+.thatyou{
+    text-align: right;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 36px;
+    line-height: 0.8;
+    letter-spacing: 0px;
+}
+.gachngang{
+    display: inline-block;
+    margin: 0;
+    width: 15%;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #24cf5f;
+    padding-bottom: 22px;
+}
+.contrary{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.textne{
+    padding-left: 100px;
+}
+.mauxam{
+    padding: 90px;
+    background-color: #ebebeb;
+    margin-top: 150px;
+}
+.itwas p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 30px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.jonha{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 14px;
+    line-height: 1.8;
+    letter-spacing: 0px;
+}
+.buhonshow{
+    margin-top: 200px;
+}
+.show{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.insert{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.khoangtrang{
+    margin-top: 80px;
+}
+.show1 img{
+    width: 102%;
+}
+.show2 img{
+    width: 95%;
+}
+.show3 img{
+    margin-top: 10px;
+    width: 97.5%;
+}
+.peoplelove{
+    margin-top: 170px;
+}
+.peo1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.peo2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.soxanh p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #24cf5f;
+    font-size: 50px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.project p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.type p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.8;
+    letter-spacing: 0px;
+    margin-top: -15px;
+}
+.putyour{
+    margin-top: 170px;
+}
+.chutoputyour p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.dontmiss p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.diachi{
+    margin-top: 60px;
+}
+.dongchu1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0px;
+}
+.dongchu2 a{
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.4;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    color: #24cf5f;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+}
+.dongchu2 p{
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.4;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+.dongchuspec a{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.8;
+    letter-spacing: 0px;
+    text-decoration: none;
+}
+.showbu{
+    margin-top: 150px;
+}
+.textshow1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.textshow2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.theface{
+    margin-top: 70px;
+}
+.textmatcuoi1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    margin-top: 25px;
+}
+.textmatcuoi2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.8;
+    letter-spacing: 0px;
+}
+.showthetime{
+    margin-top: 150px;
+}
+.showthe1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.showthe2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.chumt1{
+    padding-top: 85px;
+}
+.mt1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    padding-top: 15px;
+}
+.mt2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.promote{
+    margin-top: 170px;
+}
+.pro1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.pro2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 19px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.blazbu{
+    margin-top: 70px;
+    padding-left: 30px;
+}
+.textlogo1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.textlogo2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.chutolam{
+    margin-top: 170px;
+}
+.chuto1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.chuto2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.basic p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.price p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #24cf5f;
+    font-size: 79px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.psd span{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 17px;
+    line-height: 1.9;
+    letter-spacing: 0px;
+}
+.hour span{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 17px;
+    line-height: 1.9;
+    letter-spacing: 0px;
+}
+.muti span{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 17px;
+    line-height: 1.9;
+    letter-spacing: 0px;
+}
+.ele span{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 17px;
+    line-height: 1.9;
+    letter-spacing: 0px;
+}
+.thebune p{
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+.getstart{
+    margin-top: 35px;
+}
+.getstart a{
+    text-decoration: none;
+    color: #fff;
+    border-radius: 100px;
+    background-color: #24cf5f;
+    padding: 15px 40px;
+    margin-top: 15px;
+}
+.getstart a:hover{
+    text-decoration: none;
+    color: #000000;
+    border-radius: 100px;
+    background-color: #fff;
+    border: #24cf5f solid 2px;
+    padding: 15px 40px;
+    margin-top: 15px;
+}
+.careet{
+    margin-top: 170px;
+}
+.textcar1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.textcar2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.thetoseri{
+    margin-top: 50px;
+}
+.textsen1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.textsen2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.textsen3 a{
+    color: #24cf5f;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.textsen3 a:hover{
+    color: #000000;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.abouyou{
+    margin-top: 170px;
+}
+.about1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.about2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.textdong1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 34px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    padding-top: 90px;
+}
+.textdong2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 19px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.pricedongho p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 36px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    padding-top: 10px;
+}
+.order a{
+    text-decoration: none;
+    color: #fff;
+    border-radius: 100px;
+    background-color: #24cf5f;
+    padding: 15px 40px;
+    text-align: center;
+}
+.order a:hover{
+    text-decoration: none;
+    color: #000000;
+    border-radius: 100px;
+    background-color: #fff;
+    border: 2px solid #24cf5f;
+    padding: 15px 40px;
+    text-align: center;
+}
+.moreinfo a{
+    text-decoration: none;
+    color: #000000;
+    border-radius: 100px;
+    background-color: #fff;
+    border: 2px solid #24cf5f;
+    padding: 15px 40px;
+    text-align: center;
+}
+.moreinfo a:hover{
+    text-decoration: none;
+    color: #fff;
+    border-radius: 100px;
+    background-color: #24cf5f;
+    padding: 15px 40px;
+    text-align: center;
+}
+.showthelist{
+    margin-top: 170px;
+}
+.show1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.show2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.tongbad{
+    margin-top: 60px;
+}
+.Freque{
+    margin-top: 170px;
+}
+.text-fre p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.howcan1 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.howcan2 p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.footer{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 187px;
+    margin-top: 130px;
+}
+.social i{
+    padding-top: 90px;
+    margin: 0 13px;
+    font-size: 0.75em;
+}
+.social a{
+    text-decoration: none;
+    color: #24cf5f;
+}
+.social a:hover{
+    text-decoration: none;
+    color: #000000;
+}
+.copyright{
+    margin-top: 15px;
+}
+.textcopy p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    font-size: 16px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+.icon-list{
+    display: none;
+}
+.container-fluid {
+    justify-content: end !important;
+    display: flex;
+    align-items: center;
+}
+.ard-dl {
+    display: flex;
+}
+.bla{
+    display: flex;
+}
+.chiacotne{
+    display: flex;
+}
+.order{
+    margin-right: 60px;
+}
+.chumt1 {
+    padding-top: 85px;
+    padding-left: 50px;
+}
+@media (max-width: 768px){
+    div#navbarSupportedContent {
+        display: none !important;
+    }
+    .ard-dl {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .container-fluid {
+        flex-direction: column;
+    }
+    .icon-list{
+        display: block !important;
+        color: #24cf5f;
+        margin: 20px 0;
+        font-size: 30px;
+        text-align: center;
+        cursor: pointer;
+    }
+    .title h1 {
+        
+        font-size: 40px;
+        line-height: 1.1;
+        letter-spacing: 0px;
+        margin-top: 0;
+    }
+    .navbar-brand {
+        padding-top: 0.3125rem;
+        padding-bottom: 0.3125rem;
+        margin-right: 0rem;
+        font-size: 1.7em;
+        text-decoration: none;
+        white-space: nowrap;
+        color: #000000;
+    }
+    .cl-111 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .call1 {
+        display: inline-block;
+        background-color: #24cf5f;
+        border-color: #24cf5f;
+        color: #fff;
+        text-decoration: none;
+        padding: 17px 43px;
+        border-radius: 100px;
+        width: 50%;
+        margin-left: 0;
+    }
+    
+    .callwatch {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    img.hinh1 {
+        width: 100%;
+    }
+    .abouyou,
+    .careet,
+    .chutolam,
+    .promote,
+    .showbu,
+    .putyour,
+    .peoplelove,
+    .buhonshow,
+    .mauxam,
+    .check,
+    .solution,
+    .yourmain {
+        margin-top: 0;
+        padding: 35px 0;
+    }   
+    .contrary {
+        margin-bottom: 35px;
+    }
+    .thetoseri,
+    .theface,
+    .pro,
+    .khoangtrang {
+        margin-top: 0 !important;
+    }
+    .show2 img {
+        width: 95%;
+        margin-top: 20px;
+    }
+    .cogai {
+        background-image: url(../images/cogai.jpg);
+        background-size: cover;
+        height: 0;
+        padding-bottom: 106% !important;
+        /* background-repeat: no-repeat; */
+        background-position: center;
+    }
+    .thechung {
+        padding: 24px 0;
+    }
+    .textne {
+        padding-left: 20px;
+    }
+    .bando{
+        width: 100%;
+    }
+    .maytinh{
+        width: 100%;
+    }
+    .chumt1 {
+        padding-top: 85px;
+        padding: 0 15px;
+    }
+    .blazbu {
+        margin-top: 0;
+        padding-left: 30px;
+    }
+    .bla> .col-md-2 {
+        padding: 10px;
+    }
+    .basic {
+        margin-top: 30px;
+    }   
+    .cotprice{
+        margin-top: 0 !important;
+    }
+    .dongho{
+        width: 100%;
+    }
+    .badne{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .footer{
+        margin: 0;
+    }
+    .hinh2{
+        width: 100%;
+    }
+    .moreinfo{
+        margin-top: 50px;
+    }
+    .chiacotne {
+        flex-direction: column;
+    }
+    .call1:hover {
+        background-color: #fff;
+        color: #24cf5f;
+        border: 2px solid #24cf5f;
+        padding: 15px 13px;
+    }
+}
+.muiten i{
+    font-size: 50px;
+    background-color: #24cf5f; 
+    color: #fff;
+   border-radius: 50%;
+   width: 60px;
+   height: 60px;
+}
+.icon-aa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
